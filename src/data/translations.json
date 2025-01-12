@@ -1,0 +1,70 @@
+{
+  "en": {
+    "navbar": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "projects": "Projects",
+      "faq": "Faq",
+      "contact": "Contact"
+    },
+    "home": {
+      "welcome": "Welcome to My Professional Portfolio Website",
+      "subtitle": "Your Dedicated Software Engineer Specializing in React, Web Technologies, and Scalable Solutions!"
+    },
+    "about": {
+      "title": "About Me - Expertise in Software Engineering",
+      "description": "As a passionate software engineer, I bring years of experience in developing high-performing, scalable, and user-centric applications. With expertise in React, JavaScript, and backend technologies, I deliver exceptional digital experiences that solve real-world problems."
+    },
+    "projects": {
+      "title": "My Projects - Showcasing Creativity and Excellence",
+      "description": "Dive into my portfolio of cutting-edge projects where I combine creativity, technology, and functionality. From modern web applications to interactive user interfaces, explore how I turn ideas into impactful solutions."
+    },
+    "resume": {
+      "title": "My Resume - A Journey of Growth and Achievement",
+      "description": "Discover my professional journey, highlighting my skills in software engineering, project management, and advanced web development. Download my resume for a comprehensive overview."
+    },
+    "contact": {
+      "title": "Contact Me - Let's Create Something Amazing",
+      "description": "Whether you're looking for a skilled software engineer or a collaborator for your next big project, I'm here to help. Get in touch, and let's bring your vision to life."
+    },
+    "certifications": {
+      "title": "Professional Certifications - Verified Expertise in Modern Technologies",
+      "description": "Browse through my certifications in React, Node.js, and advanced programming methodologies. Each certification underscores my commitment to continuous learning and delivering top-quality solutions."
+    }
+  },
+  "ar": {
+    "navbar": {
+      "home": "الرئيسية",
+      "about": "من نحن",
+      "services": "خدماتنا",
+      "projects": "مشاريعي",
+      "faq": "الأسئلة الأكثر شيوعا",
+      "contact": "تواصل معي"
+    },
+    "home": {
+      "welcome": "مرحبًا بكم في موقع معرض أعمالي الاحترافي",
+      "subtitle": "مهندس برمجيات متميز متخصص في React والتقنيات الحديثة والحلول القابلة للتطوير!"
+    },
+    "about": {
+      "title": "من أنا - خبرة في هندسة البرمجيات",
+      "description": "أنا مهندس برمجيات شغوف بخبرة تمتد لسنوات في تطوير تطبيقات عالية الأداء وقابلة للتطوير تركز على المستخدم. متخصص في React وJavaScript وأحدث تقنيات البرمجيات، أعمل على تقديم تجارب رقمية استثنائية تحل المشكلات الحقيقية."
+    },
+    "projects": {
+      "title": "مشاريعي - الإبداع والتميز في التنفيذ",
+      "description": "استكشف قائمة مشاريعي المبتكرة التي تجمع بين الإبداع والتكنولوجيا والوظائف العملية. من تطبيقات الويب الحديثة إلى واجهات المستخدم التفاعلية، اكتشف كيف أحول الأفكار إلى حلول ملموسة وفعالة."
+    },
+    "resume": {
+      "title": "السيرة الذاتية - رحلة من النمو والإنجازات",
+      "description": "تعرف على رحلتي المهنية التي تسلط الضوء على مهاراتي في هندسة البرمجيات وإدارة المشاريع وتطوير الويب المتقدم. قم بتحميل سيرتي الذاتية للحصول على نظرة شاملة."
+    },
+    "contact": {
+      "title": "اتصل بي - لنحقق شيئًا رائعًا معًا",
+      "description": "سواء كنت تبحث عن مهندس برمجيات محترف أو شريك للعمل على مشروعك القادم، أنا هنا للمساعدة. تواصل معي لنحول رؤيتك إلى واقع."
+    },
+    "certifications": {
+      "title": "الشهادات المهنية - تأكيد الخبرة في التقنيات الحديثة",
+      "description": "تصفح شهاداتي في React وNode.js ومنهجيات البرمجة المتقدمة. كل شهادة تؤكد التزامي بالتعلم المستمر وتقديم حلول عالية الجودة."
+    }
+  }
+}

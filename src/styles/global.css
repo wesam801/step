@@ -1,0 +1,93 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  direction: ltr;
+}
+
+body.ar {
+  direction: rtl;
+}
+
+
+.contact__container {
+  display: grid;
+  grid-template-columns: 1fr;
+  row-gap: 2.5rem;
+}
+
+.contact__info {
+  text-align: center;
+}
+
+.contact__title {
+  font-size: 1.75rem;
+  margin-bottom: 1rem;
+}
+
+.contact__details {
+  font-size: 1rem;
+  color: var(--text-color);
+}
+
+.contact__form {
+  display: grid;
+  grid-template-columns: 1fr;
+  row-gap: 1.875rem;
+}
+
+.contact__form-group {
+  display: grid;
+  grid-template-columns: 1fr;
+  row-gap: 1.5rem;
+}
+
+.contact__form-div {
+  position: relative;
+  height: auto;
+}
+
+.contact__form-input,
+.contact__form-area textarea {
+  width: 100%;
+  padding: 0.625rem 1.25rem;
+  border-radius: 0.75rem;
+  border: 1px solid var(--border-color);
+  background-color: var(--container-color);
+  color: var(--text-color);
+  transition: border-color 0.3s ease;
+}
+
+.contact__form-input:focus,
+.contact__form-area textarea:focus {
+  outline: none;
+  border-color: var(--first-color);
+}
+
+.contact__form-area textarea {
+  resize: vertical;
+}
+
+.btn {
+  display: inline-block;
+  background-color: var(--first-color);
+  color: var(--white-color);
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  text-transform: uppercase;
+  border-radius: 0.75rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: var(--first-color);
+}
+
+@media screen and (min-width: 768px) {
+  .contact__form-group {
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      column-gap: 1.5rem;
+  }
+}
